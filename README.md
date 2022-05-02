@@ -5,5 +5,5 @@ Disponer de NodeJS instalado
 En la terminal, dentro de la carpeta del proyecto ejecutar el siguiente comando para instalar todas las dependencias:
 ### `npm install`
 
-Para ejecutar la aplicación ejecutar:
+Para ejecutar la aplicación escribir:
 ### `npm start`
